@@ -1,2 +1,5 @@
 
-/* Your CSS Code here. */
+#list{
+	display:flex;
+	justify-content:space-around;
+}
